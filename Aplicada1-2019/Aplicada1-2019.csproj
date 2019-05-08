@@ -49,6 +49,7 @@
     <Compile Include="EjerciciosCSharp\Capitulo1\Ejercicio1.cs" />
     <Compile Include="EjerciciosCSharp\Capitulo1\Ejercicio5.cs" />
     <Compile Include="EjerciciosCSharp\Capitulo2\Ejercicio1.cs" />
+    <Compile Include="EjerciciosCSharp\Capitulo2\Ejercicio3.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
